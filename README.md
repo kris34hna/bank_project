@@ -24,8 +24,6 @@ Develop a basic understanding of risk analytics in banking and financial service
 
 ## Dataset
 
-#####Key Columns:
-
 |Column | Description |
 |-------|-------------|
 | client_id | Unique identifier for each customer |
@@ -52,9 +50,9 @@ Develop a basic understanding of risk analytics in banking and financial service
 | iaid | Investment advisor ID |
 | income_band | Engineered — Low / Mid / High income group |
 
+---
 
-
-##### Tools & Technologies
+## Tools & Technologies
 
 | Tool | Purpose |
 |------|---------|
@@ -89,8 +87,9 @@ Develop a basic understanding of risk analytics in banking and financial service
 7. Gender distribution across risk categories shows nuanced patterns worth monitoring in lending policy.
 8. Superannuation savings show that customers with higher retirement savings tend to cluster in lower risk bands — indicating overall financial health.   
 
+---
 
-Dashboard / Output
+## Dashboard 
 
 The Power BI dashboard is organized into 3 pages:
 
