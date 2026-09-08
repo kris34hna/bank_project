@@ -134,9 +134,11 @@ The analysis reveals that income level, credit card balance, bank loans, and loy
 ---
 
 ## Author & Contact
+| | |
+|--|--|
+|**Name** | KRISHNA |
+|**LinkedIn** | www.linkedin.com/in/krishna-prajapati-26a106231 |
+|**GitHub** | https://github.com/ |
 
-| Field | Info |
-|-------|------|
-| Name | (Your Name) |
-| LinkedIn | https://www.linkedin.com/in/krishna-krishna-26a106231/ |
-| GitHub |https://github.com/ |
+
+⭐ **If you found this project helpful, consider giving it a star!**
